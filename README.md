@@ -13,7 +13,7 @@ The goals of this code pattern are to
 
 This code pattern provides the necessary scripts to provision a service (IBM COS and a bucket) to store data at rest and a key Protext instance with access control policies for ICOS Bucket to read from Key protextr. Then a Key is created and used by the ICOS bucket.
 
-<kbd>![Serviced-scenario](./.imgs/arch.png)</kbd>
+<kbd>![Serviced-scenario](./imgs/arch.png)</kbd>
 
 ---
 ### Process
